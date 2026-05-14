@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "580525621546",
+    "project_id": "arogyasahaya-abce4",
+    "storage_bucket": "arogyasahaya-abce4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580525621546:android:e7b78d5c59eae07f1fde53",
+        "android_client_info": {
+          "package_name": "com.example.arogyasahaya3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580525621546-rplnm9u0g8hgp8nff7as6j2mrttbkf74.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.arogyasahaya3",
+            "certificate_hash": "6dc287648f0bed227e96996338614db4f4398f3f"
+          }
+        },
+        {
+          "client_id": "580525621546-3v5jqvtebofvh7n2gasv4m1drsn7fmtg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd1ZdhwXi1ojn4Ck3I1oKMv5xhEvl27lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580525621546-3v5jqvtebofvh7n2gasv4m1drsn7fmtg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

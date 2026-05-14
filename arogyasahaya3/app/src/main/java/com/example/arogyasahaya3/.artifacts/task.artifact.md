@@ -1,0 +1,23 @@
+# Tasks
+
+- [x] Research existing profile implementation
+- [x] Analyze Firebase dependencies and configuration
+- [x] Implementation of Firebase Firestore sync for Medical Profile
+    - [x] Update `ProfileRepository` to include Firestore operations
+    - [x] Update `ProfileViewModel` to handle cloud sync
+    - [x] Ensure `loadProfile` fetches from cloud if local is empty or to keep in sync
+- [x] Verification and Testing
+    - [x] Verify profile is saved to Firestore
+    - [x] Verify profile is loaded from Firestore on new login
+- [x] Add recommended medicine for chronic diseases with dose and timing
+- [x] Allow adding recommended medication to pill reminder by clicking on it
+- [x] Fill vital trackers based on diseases (prioritize/highlight relevant trackers)
+- [x] Add alarm and notification for pill reminders
+- [x] Display profile name on Home Screen under "Healthy Morning!"
+- [x] Provide an edit option for all the pill reminders added
+- [x] Use the phone number from the Medical Profile for SOS calls
+- [x] Fix text visibility issue in Login and Register screens
+- [x] Fix splash screen color flash (Green to Blue)
+- [x] Modern UI Transformation (Blue/White theme, new layouts, bottom nav)
+- [x] Redesign Home Screen to match detailed "Good Morning" dashboard UI
+- [x] Update Bottom Navigation to 4 items (Home, Medicine, Vitals, Profile)
