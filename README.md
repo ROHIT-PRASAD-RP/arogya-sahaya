@@ -52,41 +52,41 @@ Arogya Sahaya is an Android healthcare assistance application designed to help u
 ## 🔐 Login Screen
 
 
-<img width="700" height="1600" alt="Screenshot_2026 05 15_11 54 39 650" src="https://github.com/user-attachments/assets/57d1df6a-c992-4971-949c-c50b72d886ee" />
+<img width="300" height="600" alt="Screenshot_2026 05 15_11 54 39 650" src="https://github.com/user-attachments/assets/57d1df6a-c992-4971-949c-c50b72d886ee" />
 
 ---
 
 ## 🏠 Home Dashboard
 
-<img width="700" height="1600" alt="Screenshot_2026 05 15_11 53 39 575" src="https://github.com/user-attachments/assets/3acec6aa-0683-4574-a328-ed97efd01fbf" />
+<img width="300" height="600" alt="Screenshot_2026 05 15_11 53 39 575" src="https://github.com/user-attachments/assets/3acec6aa-0683-4574-a328-ed97efd01fbf" />
 
 
 ---
 
 ## 💊 Add Medicine
 
-<img width="700" height="1600" alt="Screenshot_2026 05 15_11 53 20 841" src="https://github.com/user-attachments/assets/2ed8b1c1-75e4-48ed-95d5-b0f11b4e8d3d" />
+<img width="300" height="600" alt="Screenshot_2026 05 15_11 53 20 841" src="https://github.com/user-attachments/assets/2ed8b1c1-75e4-48ed-95d5-b0f11b4e8d3d" />
 
 
 ---
 
 ## 💊 Medicine Reminder List
 
-<img width="700" height="1600" alt="Screenshot_2026 05 15_11 53 26 029" src="https://github.com/user-attachments/assets/451de8b9-b392-4fd5-bfdc-7b4245a1890e" />
+<img width="300" height="600" alt="Screenshot_2026 05 15_11 53 26 029" src="https://github.com/user-attachments/assets/451de8b9-b392-4fd5-bfdc-7b4245a1890e" />
 
 
 ---
 
 ## 👤 Profile Screen
 
-<img width="700" height="1600" alt="Screenshot_2026 05 15_11 49 25 483" src="https://github.com/user-attachments/assets/cf7f44cf-7fc0-4ba3-a39f-1248ca8432a6" />
+<img width="300" height="600" alt="Screenshot_2026 05 15_11 49 25 483" src="https://github.com/user-attachments/assets/cf7f44cf-7fc0-4ba3-a39f-1248ca8432a6" />
 
 
 ---
 
 ## 🚨 Emergency SOS
 
-<img width="700" height="1600" alt="Screenshot_2026 05 15_11 53 59 383" src="https://github.com/user-attachments/assets/f7250f1c-37c3-4ab9-8ae3-bb5749c61e37" />
+<img width="300" height="600" alt="Screenshot_2026 05 15_11 53 59 383" src="https://github.com/user-attachments/assets/f7250f1c-37c3-4ab9-8ae3-bb5749c61e37" />
 
 
 ---
