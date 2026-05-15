@@ -52,7 +52,8 @@ Arogya Sahaya is an Android healthcare assistance application designed to help u
 ## 🔐 Login Screen
 
 
-<img width="300" height="600" alt="Screenshot_2026 05 15_11 54 39 650" src="https://github.com/user-attachments/assets/57d1df6a-c992-4971-949c-c50b72d886ee" />
+<img width="300" height="600" alt="Screenshot_2026 05 15_12 51 51 005" src="https://github.com/user-attachments/assets/4b60489c-a0da-42b5-bed7-97a8bb9c5e80" />
+
 
 ---
 
@@ -79,14 +80,16 @@ Arogya Sahaya is an Android healthcare assistance application designed to help u
 
 ## 👤 Profile Screen
 
-<img width="300" height="600" alt="Screenshot_2026 05 15_11 49 25 483" src="https://github.com/user-attachments/assets/cf7f44cf-7fc0-4ba3-a39f-1248ca8432a6" />
+<img width="300" height="600" alt="Screenshot_2026 05 15_12 50 57 484" src="https://github.com/user-attachments/assets/c5df6498-a16a-4c89-9cbd-0c4ab25ec4ee" />
+
 
 
 ---
 
 ## 🚨 Emergency SOS
 
-<img width="300" height="600" alt="Screenshot_2026 05 15_11 53 59 383" src="https://github.com/user-attachments/assets/f7250f1c-37c3-4ab9-8ae3-bb5749c61e37" />
+<img width="300" height="600" alt="Screenshot_2026 05 15_12 51 11 834" src="https://github.com/user-attachments/assets/6645bb29-7a66-4930-be7d-51711bdbd475" />
+
 
 
 ---
